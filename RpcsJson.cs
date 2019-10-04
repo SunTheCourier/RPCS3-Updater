@@ -10,14 +10,14 @@ namespace RPCS3_Updater
     public class RpcsBuild
     {
         public Uri download;
-        public ulong size;
-        public string checksum;
+        //public ulong size;
+        //public string checksum;
     }
 
     public class RpcsBuilds
     {
-        public ulong pr;
-        public DateTime datetime;
+        //public ulong pr;
+        //public DateTime datetime;
         public string version;
         public RpcsBuild windows;
         //public RpcsBuild linux;
