@@ -15,6 +15,5 @@ namespace RPCS3_Updater
             }
             return null;
         }
-
     }
 }
