@@ -16,7 +16,7 @@ namespace RPCS3_Updater
 
     public class RpcsBuilds
     {
-        //public ulong pr;
+        public ulong pr;
         //public DateTime datetime;
         public string version;
         public RpcsBuild windows;
